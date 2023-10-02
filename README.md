@@ -32,6 +32,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments 🙏
 - Special thanks to all our contributors for helping make this extension better. 🌟
+<p align="center">
+  <img src="https://contributors-img.web.app/image?repo=Devansh-Singh-Parmar/AdBlocker" width = 500/>
+</p>
+
+<div align="center">
+<sub>Made with <a href="https://contrib.rocks">contrib.rocks</a>.</sub>
+</div>
 
 Happy ad-free YouTube watching! 🎉👀
-
