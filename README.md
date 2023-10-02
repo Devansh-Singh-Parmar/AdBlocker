@@ -3,6 +3,17 @@
 ## Description 📋
 The YouTube Ad Blocker Extension is a browser extension designed to enhance your YouTube viewing experience by intelligently blocking ads. Unlike traditional ad blockers that completely remove ads, this extension aims to strike a balance between user comfort and supporting content creators. With this extension, you can enjoy your favorite content without the interruption of intrusive ads while ensuring that creators still receive their well-deserved revenue. 💡💰
 
+## Table of Contents
+
+- [Features](#features-)
+- [Installation](#installation-%EF%B8%8F)
+- [Usage](#usage-)
+- [Compatibility](#compatibility-)
+- [Feedback](#feedback-%EF%B8%8F)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Acknowledgments](#acknowledgments-)
+
 ## Features 🌟
 - Removes YouTube ads effectively and smartly. 🧹
 - Supports content creators by preserving their income. 💸
@@ -35,9 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <img src="https://contributors-img.web.app/image?repo=Devansh-Singh-Parmar/AdBlocker" width = 500/>
 </p>
-
-<div align="center">
-<sub>Made with <a href="https://contrib.rocks">contrib.rocks</a>.</sub>
-</div>
 
 Happy ad-free YouTube watching! 🎉👀
