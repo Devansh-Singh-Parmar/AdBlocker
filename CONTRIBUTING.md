@@ -2,6 +2,17 @@
 
 Welcome to the AdBlocker project! We're excited to have you as a contributor. This document will guide you through the process of contributing to our project, whether it's reporting bugs, suggesting enhancements, or submitting code changes.
 
+## Table of Contents
+
+- [How Can You Contribute?](#how-can-you-contribute)
+- [Reporting Bugs](#reporting-bugs)
+- [Suggesting Enhancements](#suggesting-enhancements)
+- [Contributing Code](#contributing-code)
+- [Documentation](#documentation)
+- [Discussions](#discussions)
+- [Code of Conduct](#code-of-conduct)
+- [Thank You!](#thank-you)
+
 ## 💡 How Can You Contribute?
 
 There are many ways you can contribute to AdBlocker:
@@ -42,16 +53,6 @@ If you'd like to contribute code to AdBlocker, follow these steps:
 Improvements to documentation are always welcome. If you spot a mistake or want to enhance our documentation, please submit a PR with your changes.
 
 ## 💬 Discussions
-
-If you have ideas, questions, or want to discuss anything related to the extension, feel free to start or join discussions in our [GitHub Discussions](https://github.com/Devansh-Singh-Parmar/AdBlocker/discussions) section.
-
-## 🧐 Code of Conduct
-
-Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) that all contributors and community members are expected to follow. Please be respectful and considerate when interacting with others in this project.
-
-## 🎉 Thank You!
-
-We appreciate your interest in contributing to AdBlocker. Your contributions help make this project better for everyone. Let's build something great together! 🚀
 
 If you have ideas, questions, or want to discuss anything related to the extension, feel free to start or join discussions in our [GitHub Discussions](https://github.com/Devansh-Singh-Parmar/AdBlocker/discussions) section.
 
