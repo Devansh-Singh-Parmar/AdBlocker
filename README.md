@@ -9,8 +9,8 @@ The YouTube Ad Blocker Extension is a browser extension designed to enhance your
 - Enhances your YouTube viewing experience. 📺🎉
 
 ## Installation 🛠️
-1. [Download the extension](#) from the Chrome Web Store or Mozilla Add-ons Store.
-2. Click on the "Add to Chrome" or "Add to Firefox" button. 🦊
+1. [Download the extension](#) from the Mozilla Add-ons Store.
+2. Click on the "Add to Firefox" button. 🦊
 3. Confirm the installation when prompted. ✅
 
 ## Usage 🚀
@@ -34,3 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to all our contributors for helping make this extension better. 🌟
 
 Happy ad-free YouTube watching! 🎉👀
+
