@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+
+    "name": "AD Blocker",
+    "description": "Block ads on Youtube",
+    "version": "1.2",
+
+    "content_scripts": [
+        {
+            "matches": ["*://*.youtube.com/*"],
+            "js": ["script.js"],
+            "run_at": "document_idle"
+        }
+    ],
+
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ]
+}
