@@ -19,7 +19,7 @@ The YouTube Ad Blocker Extension is a browser extension designed to enhance your
 3. Enjoy an uninterrupted viewing experience while supporting content creators. 🙌
 
 ## Compatibility 🌐
-- This extension is compatible with Google Chrome and Mozilla Firefox browsers.
+- This extension is compatible with Mozilla Firefox browsers.
 
 ## Feedback 🗣️
 If you encounter any issues, have suggestions for improvements, or want to report a bug, please feel free to [create an issue](#) on our GitHub repository. We value your feedback and will strive to enhance the extension based on user input. 🤝
