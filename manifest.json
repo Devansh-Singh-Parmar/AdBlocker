@@ -1,13 +1,13 @@
 {
     "manifest_version": 3,
 
-    "name": "AD Blocker",
-    "description": "Block ads on Youtube",
+    "name": "AD Blocker for YouTube",
+    "description": "Enhance your YouTube experience by blocking annoying ads",
     "version": "1.2",
 
     "content_scripts": [
         {
-            "matches": ["*://*.youtube.com/*"],
+            "matches": ["*://www.youtube.com/*"],
             "js": ["script.js"],
             "run_at": "document_idle"
         }
@@ -17,9 +17,19 @@
         "activeTab",
         "tabs"
     ],
-    "browser_specific_settings": {
-        "gecko": {
-          "id": "{174c6ce0-6775-45b7-82b3-92105d110a4d}"
-        }
-      }
+
+    "icons": {
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+
+    "icons": {
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
 }
