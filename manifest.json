@@ -16,5 +16,10 @@
     "permissions": [
         "activeTab",
         "tabs"
-    ]
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "devansh18dp@gmail.com"
+        }
+      }
 }
