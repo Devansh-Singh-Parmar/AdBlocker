@@ -9,7 +9,7 @@ The YouTube Ad Blocker Extension is a browser extension designed to enhance your
 - Enhances your YouTube viewing experience. 📺🎉
 
 ## Installation 🛠️
-1. [Download the extension](#) from the Mozilla Add-ons Store.
+1. [Download the extension](https://addons.mozilla.org/en-US/firefox/addon/blocker-free/) from the Mozilla Add-ons Store.
 2. Click on the "Add to Firefox" button. 🦊
 3. Confirm the installation when prompted. ✅
 
@@ -22,7 +22,7 @@ The YouTube Ad Blocker Extension is a browser extension designed to enhance your
 - This extension is compatible with Mozilla Firefox browsers.
 
 ## Feedback 🗣️
-If you encounter any issues, have suggestions for improvements, or want to report a bug, please feel free to [create an issue](#) on our GitHub repository. We value your feedback and will strive to enhance the extension based on user input. 🤝
+If you encounter any issues, have suggestions for improvements, or want to report a bug, please feel free to [create an issue](https://github.com/Devansh-Singh-Parmar/AdBlocker/issues) on our GitHub repository. We value your feedback and will strive to enhance the extension based on user input. 🤝
 
 ## Contributing 🤝
 We welcome contributions from the open-source community. If you'd like to contribute to the development of this extension, please follow our [contributing guidelines](CONTRIBUTING.md).
